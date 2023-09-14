@@ -22,10 +22,16 @@
 <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
+## Contato
 <div>
-<a href="https://github.com/mateusbiancardi">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbiancardi&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusbiancardi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://instagram.com/_mbiancardi" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mateusbbdasilva@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-biancardi-da-silva-227840252" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/mateusbiancardi/mateusbiancardi/blob/output/github-contribution-grid-snake.svg)
+## Estatísticas
+<div>
+<a href="https://github.com/mateusbiancardi">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusbiancardi&layout=compact&langs_count=7&theme=github_dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusbiancardi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
