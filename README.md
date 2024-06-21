@@ -4,6 +4,7 @@
 - 🔭 Atualmente trabalho na empresa CT Junior como frontend developer
 - 💻 Estudo NextJS, ChakraUI, TailwindCSS, Git e Figma
 - ⌨️ Conhecimento em linguagens: Javascript/Typescript, C, Python, Assembly e VHDL
+- ⚡ Estudante de Engenharia Elétrica na Universidade Federal do Espírito Santo (UFES)
 
 ## Ferramentas e tecnologias
 <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
