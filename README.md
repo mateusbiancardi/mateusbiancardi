@@ -1,10 +1,10 @@
 # Olá, me chamo Mateus Biancardi! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente trabalho na empresa CT Junior como frontend developer
-- 💻 Estudo NextJS, ChakraUI, TailwindCSS, Git e Figma
+- 🔭 Atualmente trabalho na empresa Gama Ensino como fullstack developer
+- 💻 Estudo React, NextJS, ChakraUI, TailwindCSS, Angular, Springboot, Git e Figma
 - ⌨️ Conhecimento em linguagens: Javascript/Typescript, C, Python, Assembly e VHDL
-- ⚡ Estudante de Engenharia Elétrica na Universidade Federal do Espírito Santo (UFES)
+- ⚡ Estudante de Ciência da Computação na Universidade Federal do Espírito Santo (UFES)
 
 ## Ferramentas e tecnologias
 <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
